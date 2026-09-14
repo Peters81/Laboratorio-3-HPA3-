@@ -179,9 +179,3 @@ Con esta implementación, `Form1` funciona como ventana principal y `Form2` pued
 ![Problema 3 - Formulario MDI](./imagenes/prob3.png)
 
 ---
-
-# Referencias
-
-🩷 Material proporcionado por la docente para el Laboratorio #3.
-
-🩷 Documentación de C# y .NET utilizada durante el desarrollo de las actividades.
