@@ -172,21 +172,7 @@ Para realizar las acciones de navegación se utilizaron eventos asociados a los 
 
 Con esta implementación, `Form1` funciona como ventana principal y `Form2` puede abrirse como formulario hijo dentro de la interfaz MDI. Además, el uso de `Application.OpenForms`, `BringToFront()` y `Focus()` permite controlar la apertura de las ventanas y evitar formularios duplicados.
 
-### Conceptos utilizados
 
-🩷 Formularios MDI.
-
-🩷 `IsMdiContainer`.
-
-🩷 `MdiParent`.
-
-🩷 `Application.OpenForms`.
-
-🩷 `BringToFront()`.
-
-🩷 `Focus()`.
-
-🩷 `ToolStrip` y sus eventos.
 
 ### Evidencia
 
