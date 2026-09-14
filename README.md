@@ -81,7 +81,7 @@ Este ejercicio permitió aplicar el uso de clases y objetos junto con controles 
 
 ### Evidencia
 
-![Problema 1](./imagenes/problema1.png)
+![Problema 1](./imagenes/prob1.png)
 
 ---
 
@@ -140,7 +140,7 @@ Esta modificación mejora la seguridad de tipos y hace que la colección sea má
 
 ### Evidencia
 
-![Problema 2](./imagenes/problema2.png)
+![Problema 2](./imagenes/prob2.png)
 
 ---
 
@@ -176,7 +176,7 @@ Con esta implementación, `Form1` funciona como ventana principal y `Form2` pued
 
 ### Evidencia
 
-![Problema 3 - Formulario MDI](./imagenes/problema3.png)
+![Problema 3 - Formulario MDI](./imagenes/prob3.png)
 
 ---
 
