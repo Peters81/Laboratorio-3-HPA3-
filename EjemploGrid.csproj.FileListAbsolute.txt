@@ -1,0 +1,42 @@
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.exe
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.deps.json
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.runtimeconfig.json
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.dll
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.pdb
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.Form1.resources
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.Properties.Resources.resources
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.AssemblyInfoInputs.cache
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.AssemblyInfo.cs
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.dll
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\refint\EjemploGrid.dll
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.pdb
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.genruntimeconfig.cache
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\ref\EjemploGrid.dll
+C:\Users\niomu\Desktop\HPA3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploG.52B6A43F.Up2Date
+C:\Users\FISC\Desktop\HPA alisson\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.dll
+C:\Users\FISC\Desktop\HPA alisson\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\refint\EjemploGrid.dll
+C:\Users\FISC\Desktop\HPA alisson\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.pdb
+C:\Users\niomu\Desktop\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.dll
+C:\Users\niomu\Desktop\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\refint\EjemploGrid.dll
+C:\Users\niomu\Desktop\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.pdb
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.exe
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.deps.json
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.runtimeconfig.json
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.dll
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\bin\Debug\net10.0-windows\EjemploGrid.pdb
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.Form1.resources
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.Properties.Resources.resources
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.AssemblyInfoInputs.cache
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.AssemblyInfo.cs
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.dll
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\refint\EjemploGrid.dll
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.pdb
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploGrid.genruntimeconfig.cache
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\ref\EjemploGrid.dll
+C:\Users\FISC\OneDrive\Desktop\HPA alisson\Alisson LAB3\EjemploGrid\EjemploGrid\obj\Debug\net10.0-windows\EjemploG.52B6A43F.Up2Date
