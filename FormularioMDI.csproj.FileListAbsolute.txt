@@ -1,0 +1,10 @@
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.csproj.AssemblyReference.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.Form1.resources
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.Properties.Resources.resources
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.csproj.GenerateResource.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\bin\Debug\FormularioMDI.exe.config
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\bin\Debug\FormularioMDI.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\bin\Debug\FormularioMDI.pdb
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.exe
+C:\Users\aliss\OneDrive - Universidad Tecnológica de Panamá\HPA\FormularioMDI\FormularioMDI\obj\Debug\FormularioMDI.pdb
