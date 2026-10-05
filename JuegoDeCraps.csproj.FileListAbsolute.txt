@@ -1,0 +1,7 @@
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\obj\Debug\JuegoDeCraps.csproj.AssemblyReference.cache
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\obj\Debug\JuegoDeCraps.csproj.CoreCompileInputs.cache
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\bin\Debug\JuegoDeCraps.exe.config
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\bin\Debug\JuegoDeCraps.exe
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\bin\Debug\JuegoDeCraps.pdb
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\obj\Debug\JuegoDeCraps.exe
+C:\Users\niomu\Desktop\Alisson LAB3\JuegoDeCraps\JuegoDeCraps\obj\Debug\JuegoDeCraps.pdb
