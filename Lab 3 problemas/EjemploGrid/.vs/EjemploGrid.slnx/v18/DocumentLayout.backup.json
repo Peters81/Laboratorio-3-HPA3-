@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|c:\\users\\niomu\\desktop\\hpa3\\ejemplogrid\\ejemplogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|solutionrelative:ejemplogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|c:\\users\\niomu\\desktop\\hpa3\\ejemplogrid\\ejemplogrid\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|solutionrelative:ejemplogrid\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|c:\\users\\niomu\\desktop\\hpa3\\ejemplogrid\\ejemplogrid\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|solutionrelative:ejemplogrid\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\ejemplogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{354965DA-6D54-AA65-E105-78946B0745A3}|EjemploGrid\\EjemploGrid.csproj|solutionrelative:ejemplogrid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Class2.cs",
+              "RelativeDocumentMoniker": "EjemploGrid\\Class2.cs",
+              "ToolTip": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Class2.cs",
+              "RelativeToolTip": "EjemploGrid\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:45:09.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Class1.cs",
+              "RelativeDocumentMoniker": "EjemploGrid\\Class1.cs",
+              "ToolTip": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Class1.cs",
+              "RelativeToolTip": "EjemploGrid\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:24:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploGrid\\Form1.cs",
+              "ToolTip": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Form1.cs",
+              "RelativeToolTip": "EjemploGrid\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:07:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploGrid\\Form1.cs",
+              "ToolTip": "C:\\Users\\niomu\\Desktop\\HPA3\\EjemploGrid\\EjemploGrid\\Form1.cs [Design]",
+              "RelativeToolTip": "EjemploGrid\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:06:54.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

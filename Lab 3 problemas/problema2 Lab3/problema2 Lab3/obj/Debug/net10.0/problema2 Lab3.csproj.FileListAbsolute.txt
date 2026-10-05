@@ -1,0 +1,15 @@
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\bin\Debug\net10.0\problema2 Lab3.exe
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\bin\Debug\net10.0\problema2 Lab3.deps.json
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\bin\Debug\net10.0\problema2 Lab3.runtimeconfig.json
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\bin\Debug\net10.0\problema2 Lab3.dll
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\bin\Debug\net10.0\problema2 Lab3.pdb
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.AssemblyInfoInputs.cache
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.AssemblyInfo.cs
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.csproj.CoreCompileInputs.cache
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.dll
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\refint\problema2 Lab3.dll
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.pdb
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema2 Lab3.genruntimeconfig.cache
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\ref\problema2 Lab3.dll
+C:\Users\niomu\Desktop\HPA3\problema2 Lab3\problema2 Lab3\obj\Debug\net10.0\problema.321101D0.Up2Date
